@@ -6,7 +6,6 @@
 - [Getting Started](#getting_started)
 - [Usage](#usage)
 
-
 ## About <a name = "about"></a>
 
 This a simple Hello World Sample Flask API project which can be used for CICD creation and learning devops Pipelines.
@@ -20,10 +19,16 @@ These instructions will get you a copy of the project up and running on your loc
 2. Install pip
 
 3. Install Flask using pip.
-### pip install flask
+
+```
+pip install flask
+```
 
 4. Run the program using the below command:
-### python app.py
+
+```
+ python app.py
+```
 
 ### Prerequisites
 
